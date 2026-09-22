@@ -1,0 +1,12 @@
+# Altium auto-generated
+History/
+__Previews/
+Project Logs for */
+Project Outputs for */
+*.PrjPcbStructure
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+*.bak
+*.~*
