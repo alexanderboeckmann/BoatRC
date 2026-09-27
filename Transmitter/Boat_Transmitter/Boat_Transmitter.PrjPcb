@@ -129,7 +129,7 @@ ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet2]
-DocumentPath=..\..\DeviceSheets\USB_Charging.SchDoc
+DocumentPath=..\..\DeviceSheets\USB_Charge.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
