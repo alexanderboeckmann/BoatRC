@@ -2,7 +2,4 @@
 Version=1.0
 
 [Project1]
-ProjectPath=Receiver\Boat_Receiver\Boat_Receiver.PrjPcb
-
-[Project2]
 ProjectPath=Transmitter\Boat_Transmitter\Boat_Transmitter.PrjPcb
