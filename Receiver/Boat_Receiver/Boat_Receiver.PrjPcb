@@ -151,6 +151,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FYASKQRX
 
+[GeneratedDocument1]
+DocumentPath=..\..\..\..\AppData\Local\Temp\atlas-altium\runs\2e1284b7-0ad9-476a-8b72-c3fd11d101fb\BOM\Bill of Materials-Boat_Receiver.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=..\..\..\..\AppData\Local\Temp\atlas-altium\runs\7cd502f9-afaa-4a86-9951-aa75a7f5018b\BOM\Bill of Materials-Boat_Receiver.csv
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=..\..\..\..\AppData\Local\Temp\atlas-altium\runs\30e68011-33e1-4a2f-b064-1adfe0c3e559\BOM\Bill of Materials-Boat_Receiver.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=..\..\..\..\AppData\Local\Temp\atlas-altium\runs\c0cfe808-14a9-4edf-a30c-724f9bf3871a\BOM\Bill of Materials-Boat_Receiver.csv
+DItemRevisionGUID=
+
 [DeviceSheetFolder1]
 Path=C:\Users\alexa\Documents\BoatRC\DeviceSheets\
 IncludeSubFolders=0

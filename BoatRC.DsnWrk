@@ -3,3 +3,12 @@ Version=1.0
 
 [Project1]
 ProjectPath=Transmitter\Boat_Transmitter\Boat_Transmitter.PrjPcb
+
+[Project2]
+ProjectPath=Receiver\Boat_Receiver\Boat_Receiver.PrjPcb
+
+[Project3]
+ProjectPath=..\..\AppData\Local\Temp\atlas-altium\runs\1b1eb681-029e-4595-aba0-6d5acf26e6c9\AtlasScripts.PrjScr
+
+[Project4]
+ProjectPath=..\..\..\..\..\/Users/alexa/Documents/BoatRC/Receiver/Boat_Receiver/Boat_Receiver.PrjPcb
